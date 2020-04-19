@@ -1,4 +1,5 @@
 # Mo' Money
+Deployed GitHub-https://eturnersumi.github.io/Mo-Money/
 An application that encourages money management through active budget tracking. 
 
 ![MoneyDog](https://media.giphy.com/media/12pJ8OxSWwO86Y/giphy.gif)
