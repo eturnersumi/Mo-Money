@@ -1,5 +1,7 @@
 # Mo' Money
 Deployed Application - https://warm-hollows-78608.herokuapp.com/
+
+
 An application that encourages money management through active budget tracking. 
 
 ![MoneyDog](https://media.giphy.com/media/12pJ8OxSWwO86Y/giphy.gif)
